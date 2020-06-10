@@ -4,24 +4,19 @@
   "author": "Musthaq Aadhil",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/m2aadhil/numeric-formatter.git"
+    "url": "git+https://github.com/m2aadhil/ngx-localizer.git"
   },
   "bugs": {
-    "url": "https://github.com/m2aadhil/numeric-formatter/issues"
+    "url": "https://github.com/m2aadhil/ngx-localizer/issues"
   },
-  "homepage": "https://github.com/m2aadhil/numeric-formatter",
+  "homepage": "https://github.com/m2aadhil/ngx-localizer",
   "keywords": [
     "angular",
-    "numeric",
-    "format",
-    "length",
-    "max-length",
-    "max",
-    "size",
-    "type",
-    "number",
-    "formatter",
-    "directive"
+    "internationalization",
+    "localization",
+    "localize",
+    "translate",
+    "i18n"
   ],
   "license": "MIT",
   "peerDependencies": {

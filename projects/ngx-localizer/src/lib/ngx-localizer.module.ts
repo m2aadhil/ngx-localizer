@@ -11,6 +11,6 @@ import { NgxLocalizerService } from './ngx-localizer.service';
     HttpClientModule
   ],
   providers: [NgxLocalizerService],
-  exports: [NgxLocalizerDirective, NgxLocalizerService]
+  exports: [NgxLocalizerDirective]
 })
 export class NgxLocalizerModule { }
